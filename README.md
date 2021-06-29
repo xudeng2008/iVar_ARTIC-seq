@@ -2,7 +2,7 @@
 Using iVar analyze amplicon sequencing data
 
 # Usage:
-1. align_bwa.py
+1. `align_bwa.py`
 Run align_bwa.py to align paired-end amplicon reads to the reference genome
 Parameters:
 
